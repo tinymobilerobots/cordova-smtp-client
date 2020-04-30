@@ -11,7 +11,7 @@ Install iOS and/or Android platform
 
 Install the plugin using your any plugman compatible cli
 
-    $ cordova plugin add https://github.com/albernazf/cordova-smtp-client.git
+    $ cordova plugin add https://github.com/tinymobilerobots/cordova-smtp-client.git
 
 Under the plugins / com.cordova.smtp.client / www folder you will find a Typescript file to help you use the plugin (not mandatory) MailSettings.ts, if you are not using typescript there is also a javascript version of it under the same folder MailSettings.js.
 
